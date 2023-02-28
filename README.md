@@ -4,7 +4,7 @@ rna memory transfer and science practices
 it started in 1962
 [Memory transfer through cannibalism in planarians
 ](https://scholar.google.com/scholar_lookup?title=Memory%20transfer%20through%20cannibalism%20in%20planarians&publication_year=1962&author=J.V.%20McConnell)
-J. Neuropsychiat., 3 (Suppl. 1) (1962),
+J. Neuropsychiat., 3 (Suppl. 1) (1962), McConnell
 
 https://journals.biologists.com/jeb/article/216/20/3799/11714/An-automated-training-paradigm-reveals-long-term
 
