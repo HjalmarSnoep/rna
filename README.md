@@ -6,6 +6,11 @@ it started in 1962
 ](https://scholar.google.com/scholar_lookup?title=Memory%20transfer%20through%20cannibalism%20in%20planarians&publication_year=1962&author=J.V.%20McConnell)
 J. Neuropsychiat., 3 (Suppl. 1) (1962), McConnell
 
+[verguizing mcconnel](https://www.apa.org/monitor/2010/06/memory-transfer) 
+
+uiteindelijk komen we uit bij epigentishce engrams en is er opnieuw verguizng in 2018.
+epigenetica vind men maar moeilijk te verkroppen (Lamarck + Darwin)
+
 https://journals.biologists.com/jeb/article/216/20/3799/11714/An-automated-training-paradigm-reveals-long-term
 
 1962 James V. McConnell  rna
@@ -15,7 +20,6 @@ https://journals.biologists.com/jeb/article/216/20/3799/11714/An-automated-train
 
 vergeten
 
-[verguizing mcconnel](https://www.apa.org/monitor/2010/06/memory-transfer) 
 https://www.sciencedirect.com/science/article/pii/S096098220300071X 2013
 https://www.sciencedirect.com/science/article/pii/S096098220300071X finding what you search for
 https://www.eneuro.org/content/5/3/ENEURO.0038-18.2018
